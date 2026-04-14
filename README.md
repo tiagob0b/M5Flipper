@@ -17,6 +17,7 @@ necessidade de computador externo.
   | Armazenamento | MicroSD (SPI compartilhado com EPD) |
   | RTC | BM8563 |
 
+ [![Shop]]([https://www.youtube.com/watch?v=3ELKX3h7WS8](https://shop.m5stack.com/products/m5paper-esp32-development-kit-v1-1-960x540-4-7-eink-display-235-ppi))
   ---
 
   ## Funções implementadas
