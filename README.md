@@ -1,5 +1,5 @@
 # M5Flipper
-Hardware hacking tool para M5Paper V1.1 — inspirado no Flipper Zero.
+Hardware hacking tool para M5Paper V1.1 — WiFi Scanner, Deauth, Beacon Spam, Evil Twin, PMKID/Handshake capture, WPS Scanner, Channel Analyzer e mais. Inspirado no Flipper Zero.
 
 Um canivete suíço de segurança Wi-Fi que roda no M5Paper (ESP32 + ecrã EPD 4.7")
 com interface totalmente por toque. Captura, analisa e injeta frames 802.11 sem
@@ -207,16 +207,12 @@ necessidade de computador externo.
   - [x] Channel Analyzer
   - [x] WPS Scanner
   - [x] SD Analyzer
+  - [X] WPS Scanner
   - [ ] Deauth Detector
+  - [ ] Karma Attack
+  - [ ] WPA Enterprise Detector
+  - [ ] Hidden SSID Revealer
+  - [ ] Signal Logger / Wardriving
   - [ ] BLE Scanner (bloqueado por limitação de IRAM do SDK actual)
 
   ---
-  Para a descrição curta do repositório (campo "About" do GitHub):
-
-  Hardware hacking tool para M5Paper V1.1 — WiFi Scanner, Deauth, Beacon Spam, Evil Twin, PMKID/Handshake capture, WPS Scanner, Channel Analyzer e mais. Inspirado
-   no Flipper Zero.
-
-  Topics sugeridos:
-  esp32  m5stack  m5paper  wifi-hacking  penetration-testing
-  beacon-spam  evil-twin  wps-scanner  802-11  arduino
-  hardware-hacking  flipper-zero  epaper
