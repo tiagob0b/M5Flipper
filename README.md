@@ -193,7 +193,9 @@ necessidade de computador externo.
   O autor não se responsabiliza por qualquer utilização indevida.
 
   ---
-
+  
+  ## Demo
+  
  [![Assista à demo](https://img.youtube.com/vi/3ELKX3h7WS8/0.jpg)](https://www.youtube.com/watch?v=3ELKX3h7WS8)
 
   ## Roadmap
@@ -210,7 +212,7 @@ necessidade de computador externo.
   - [x] WPS Scanner
   - [x] SD Analyzer
   - [X] WPS Scanner
-  - [ ] Deauth Detector
+  - [X] Deauth Detector
   - [ ] Karma Attack
   - [ ] WPA Enterprise Detector
   - [ ] Hidden SSID Revealer
