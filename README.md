@@ -194,6 +194,8 @@ necessidade de computador externo.
 
   ---
 
+ [![Assista à demo](https://img.youtube.com/vi/3ELKX3h7WS8/0.jpg)](https://www.youtube.com/watch?v=3ELKX3h7WS8)
+
   ## Roadmap
 
   - [x] WiFi Scanner
